@@ -1,6 +1,6 @@
 <?php
 
-echo "ian kereeeen";
+echo "ian keren";
 
 function bukanfungsi(){
 
